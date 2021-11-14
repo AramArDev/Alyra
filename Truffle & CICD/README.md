@@ -1,6 +1,7 @@
 Le dossier voting contient l'application pour defi 2.
 
 Pour pouvoir tester il faut :
+    
     - Récupérer les smart contracts d’openZeppelin (Pour Migrate)
         $ npm install @openzeppelin/contracts --save
 
