@@ -13,6 +13,7 @@ Pour pouvoir tester il faut :
 
 
 **J'ai fais deux petit changement sur le fichier Voting.sol pour que le contract ne crache pas :**
+
     - getOneProposal : j'ai ajouter une require pour que on puisse pas demander un proposal qui n'existe pas.
     require(_id < proposalsArray.length, 'Proposal not found');
 
