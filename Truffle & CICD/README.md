@@ -17,7 +17,7 @@ Pour pouvoir tester il faut :
     - getOneProposal : j'ai ajouter une require pour que on puisse pas demander un proposal qui n'existe pas.
     require(_id < proposalsArray.length, 'Proposal not found');
 
-    **- setVote** : changement <= par <
+    - setVote : changement <= par <
     avec le require 
     require(_id <= proposalsArray.length, 'Proposal not found');
     on peut faire setVote(proposalsArray.length) et comme ca le contract va craché.
