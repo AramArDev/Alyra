@@ -9,3 +9,7 @@
 - sous le dossier client
   - npm install  
   - npm run start
+
+## 3. Déploiement de DApp dapp_voting sur differents platformes
+- GitHub Pages : [https://aramardev.github.io/Alyra/](https://aramardev.github.io/Alyra/)
+- Heroku
