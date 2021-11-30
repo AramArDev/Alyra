@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Alyra/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Alyra/static/js/main.ec65746a.chunk.js",
+    "main.js.map": "/Alyra/static/js/main.ec65746a.chunk.js.map",
+    "runtime-main.js": "/Alyra/static/js/runtime-main.4c6e9bfb.js",
+    "runtime-main.js.map": "/Alyra/static/js/runtime-main.4c6e9bfb.js.map",
+    "static/js/2.eb8318ce.chunk.js": "/Alyra/static/js/2.eb8318ce.chunk.js",
+    "static/js/2.eb8318ce.chunk.js.map": "/Alyra/static/js/2.eb8318ce.chunk.js.map",
+    "index.html": "/Alyra/index.html",
+    "precache-manifest.763b1c3652a89e128a0ce9b030aec8f1.js": "/Alyra/precache-manifest.763b1c3652a89e128a0ce9b030aec8f1.js",
+    "service-worker.js": "/Alyra/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Alyra/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c6e9bfb.js",
+    "static/js/2.eb8318ce.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.ec65746a.chunk.js"
+  ]
+}
