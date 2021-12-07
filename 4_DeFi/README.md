@@ -1,13 +1,13 @@
 # DeFi
 ## Auteurs : Aram ARAKELYAN et Dé Yi BANH
 
-
-
-
 ## Installer/executer le projet
 - sous le dossier parent
   - npm install
   - truffle migrate --reset --network NomReseau 
+
+<br/>
+<br/>
 
 ## 1. Fork UniswapV2.
 - fork UniswapV2 core et periphery et renomage des contracts.
