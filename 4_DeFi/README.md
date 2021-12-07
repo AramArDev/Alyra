@@ -2,9 +2,11 @@
 ## Auteurs : Aram ARAKELYAN et Dé Yi BANH
 
 ## Installer/executer le projet
+- lancer ganache-cli ou ganache (changer truffle-config.js et le port dans 2_deploy_uniswap.js)
 - sous le dossier parent
   - npm install
   - truffle migrate --reset --network NomReseau 
+
 
 <br/>
 <br/>
